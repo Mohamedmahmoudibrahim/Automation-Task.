@@ -13,7 +13,7 @@ public class TestBase {
     @BeforeClass
     public void startDriver () {
 
-        System.setProperty("webdriver.edge.driver","C:\\Users\\Mohamed.Ibrahim\\Downloads\\edgedriver_win64\\msedgedriver.exe");
+        System.setProperty("webdriver.edge.driver","C:\\Users\\Mohamed.Ibrahim\\IdeaProjects\\AIB\\src\\test\\java\\Driver\\msedgedriver.exe");
         driver = new EdgeDriver();
         driver.get("https://demo.nopcommerce.com/");
         driver.manage().window().maximize();
