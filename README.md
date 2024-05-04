@@ -7,7 +7,7 @@ This project is aimed at showcasing the usage of selenium to automate E-commerce
 * Check Edge driver compatibility with current Egde browser before run the TC 
 * Install Allure report binaries and after setup put the path of bin file in Environment variables Path
 * Install Apache-Maven To use Allure report and after setup put the path of bin file in Environment variables Path
-* For Maven / TestNG / Selenium / Json Reader dependencies already configured in POM.XML file
+* For Maven / TestNG / Selenium / Json Reader / Allure report dependencies already configured in POM.XML file
   
 ### Overview of the project :
    * Project built using POM framwork 
